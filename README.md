@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **HTML, CSS, JavaScript, React.JS, Node.JS**
 
-- 👨‍💻 All of my projects are available at [https://mnv17.github.io/](https://mnv17.github.io/)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://mnv17.github.io/)
 
 - 💬 Ask me about **HTML, CSS, React, JavaScript**
 
