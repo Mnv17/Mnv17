@@ -18,11 +18,11 @@
 
 - 📫 How to reach me **maanavverma0@gmail.com**
 
-- 📄 Know about my experiences [My Resume](https://drive.google.com/drive/folders/1nXxGvKCSi0XRiXEBg4Oh65cByVjgsmxD?usp=share_link)
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1YJ7XvFVoXqKW4bhJxEeWlZ7Qif7JhZGA/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="linkedin.com/in/manav-verma-414927188/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="maanav verma" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/manav-verma-414927188/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="maanav verma" height="30" width="40" /></a>
 <a href="https://instagram.com/maanav_verma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="maanav_verma" height="30" width="40" /></a>
 </p>
 
