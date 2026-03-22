@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **maanavverma0@gmail.com**
 
-- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1YJ7XvFVoXqKW4bhJxEeWlZ7Qif7JhZGA/view)
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1IQ5rU8lzC06mR_fGWQn2jLe8S7ljAbiL/view?usp=drivesdk)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
